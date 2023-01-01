@@ -14,10 +14,11 @@
   
 
 - ⚡ Fun fact: I kinda like bing ( pls dont cancel me )  
-  
-<div display="inline" align="right">
+ 
+<span><div display="inline" align="right">
 <img src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" align="center" height="200" width="200"/>
-</div>  
+</div> </span>
+ 
 <br/>  
 
 
