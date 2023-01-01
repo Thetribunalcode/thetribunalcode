@@ -1,9 +1,7 @@
-<div align="center">
-<img src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" align="center" height="200" width="200"/>
-</div>  
+
   
 
-#### Hey there 👋  
+## Hey there 👋  
   
 
 - 🔭 I’m currently working on MERN and JAM apps  
@@ -17,7 +15,9 @@
 
 - ⚡ Fun fact: I kinda like bing ( pls dont cancel me )  
   
-
+<div align="center">
+<img src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" align="center" height="200" width="200"/>
+</div>  
 <br/>  
 
 
