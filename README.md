@@ -15,9 +15,9 @@
 
 - ⚡ Fun fact: I kinda like bing ( pls dont cancel me )  
  
-<span><div display="inline" align="right">
+<span>
 <img src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" align="center" height="200" width="200"/>
-</div> </span>
+</span>
  
 <br/>  
 
