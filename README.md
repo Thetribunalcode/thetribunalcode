@@ -23,7 +23,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats-mauve-kappa.vercel.app/api?username=thetribunalcode&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thetribunalcode&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 
 <br/>  
 
